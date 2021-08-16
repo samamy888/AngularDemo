@@ -2,8 +2,6 @@
 
 根據保哥課程 Angular 開發實戰:從零開始  下去做DEMO
 
-1~4為環境設置
-
 ## 5.Angular CLI架構
 
     angular.json : angular設定檔
@@ -19,4 +17,8 @@
 ## 6.VSC 開發環境
 
     F1 : 查看VSC有的功能
-    
+
+## 15.發行angular方法
+
+    ng build --prod
+    可以壓縮build出來的檔案
